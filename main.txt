@@ -1,2 +1,10 @@
 Adding some content from the main branch in the main.txt file.
 1_my_branch
+2_my_branch
+3_my_branch
+4_my_branch
+5_my_branch
+6_my_branch
+7_my_branch
+8_my_branch
+9_my_branch
